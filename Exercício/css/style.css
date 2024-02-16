@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    padding: 0.5rem;
+    border-bottom: 1px solid green;
+    margin-bottom: 0.5rem;
+}
+
+header h1 {
+    color: green;
+}
+
+form {
+    margin: 0.5rem;
+}
+
+form div {
+    padding: 1rem;
+}
+
+form div label {
+    font-size: 0.85rem;
+    color: green;
+}
+
+footer {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-top: 1px solid green;
+}
+
+footer address {
+    font-size: 0.75rem;
+    color: darkgreen;
+    text-align: center;
+}
